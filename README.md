@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Cristián. I'm a developer, security specialist, professor and speaker.
+
+I currently hold the following security certifications:
+
+* (ISC)² CSSLP (professional and instructor)
+* ISO27001:2013 Lead Auditor
+* ISO27001:2013 Lead Implementer
 
 <!--
 **injcristianrojas/injcristianrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
