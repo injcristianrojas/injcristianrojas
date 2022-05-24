@@ -5,6 +5,7 @@ I'm Cristián. I'm a developer, security specialist, professor and speaker.
 I currently hold the following security certifications:
 
 * (ISC)² CSSLP (professional and instructor)
+* Offensive Security Certified Professional (OSCP)
 * ISO27001:2013 Lead Auditor
 * ISO27001:2013 Lead Implementer
 
