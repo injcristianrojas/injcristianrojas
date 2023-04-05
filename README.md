@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Cristián. I'm a developer, cybersecurity engineer, professor and speaker. I specialize in application security.
+I'm Cristián. I'm a developer, cybersecurity consultant/advisor, professor and speaker. I specialize in application security.
 
 I currently hold the following security certifications:
 
